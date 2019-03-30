@@ -12,3 +12,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.project-video{
+  max-width: 80vw;
+  max-height: 45vw;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  background-color: black
+}
+
+.nav-item{
+  padding:5px
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   text-shadow: 1px 1px black;
+   color:white;
+   font-size: 10px
+}
+body{
+  padding-bottom:500px;
+  background-color: white;
+
+}
+
+hr{
+  background-color: navy;
+}
